@@ -1,4 +1,4 @@
-## olá, eu sou o pedro henrique
+## Olá, eu sou o Pedro Henrique
 
 - 🌱 I’m currently learning HTLM
 - 📫 How to reach me: Phenriquefs29@gmail.com
