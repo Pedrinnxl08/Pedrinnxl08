@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro Henrique
 
-- 🌱 I’m currently learning HTLM
+- 🌱 I’m currently learning HTLM/CSS/JAVASCRIPT
 - 📫 How to reach me: Phenriquefs29@gmail.com
 - 😄 Pronouns: ele/dele
 
